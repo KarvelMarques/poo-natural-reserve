@@ -5,7 +5,7 @@
 #include "Rabbit.h"
 
 Rabbit::Rabbit() {
-    this->identifier = "\U0001f407";
+    this->identifier = "r";
     this->maxLifetime = 20;
     this->health = 20;
     this->weight = rand() % 4 + 1;

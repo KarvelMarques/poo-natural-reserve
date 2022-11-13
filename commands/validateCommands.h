@@ -4,6 +4,8 @@
 #ifndef POO_NATURAL_RESERVE_VALIDATECOMMANDS_H
 #define POO_NATURAL_RESERVE_VALIDATECOMMANDS_H
 
+#define MAX_ARGUMENTS_SIZE 5
+
 #include <vector>
 #include <iostream>
 #include <array>

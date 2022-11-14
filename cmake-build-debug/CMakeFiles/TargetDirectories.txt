@@ -1,0 +1,3 @@
+C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/CMakeFiles/poo_natural_reserve.dir
+C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/CMakeFiles/rebuild_cache.dir

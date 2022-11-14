@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="poo_natural_reserve"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="poo_natural_reserve">
+				<Option output="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/poo_natural_reserve.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 poo_natural_reserve"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="poo_natural_reserve/fast">
+				<Option output="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/poo_natural_reserve.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../include"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/include-fixed"/>
+					<Add directory="C:/Program Files/JetBrains/CLion 2022.2.4/bin/mingw/bin/../lib/gcc/x86_64-w64-mingw32/11.2.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 poo_natural_reserve/fast"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/JETBRA~1/CLION2~1.4/bin/mingw/bin/mingw32-make.exe -f &quot;C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/commands/commands.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/commands/commands.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/commands/handleCommands.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/commands/handleCommands.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/commands/validateCommands.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/commands/validateCommands.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/Entity.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/Entity.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/Position.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/Position.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/animal/Animal.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/animal/Animal.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/animal/Rabbit.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/animal/Rabbit.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/animal/Sheep.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/animal/Sheep.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/enums/Smell.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/enums/Smell.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/food/Food.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/food/Food.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/food/Grass.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/food/Grass.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/game/Game.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/game/Game.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/game/GameConfiguration.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/game/GameConfiguration.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/game/MatrixCell.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/game/MatrixCell.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/game/MatrixSize.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/game/game/MatrixSize.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/main.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/services/GameService.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/services/GameService.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/userInterface/useInterface.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/userInterface/useInterface.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/utils/utils.cpp">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/utils/utils.h">
+			<Option target="poo_natural_reserve"/>
+		</Unit>
+		<Unit filename="C:/Users/joaok/Desktop/Universidade/2Ano/POO/poo-natural-reserve/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
